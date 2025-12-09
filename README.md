@@ -49,7 +49,7 @@ This project was initialized with the following commands and configuration:
 - Badge
 - Sheet
 - Label
-
+```markdown
 📁 Project Structure
 office-assets-manager-frontend/
 ├── public/
